@@ -4,17 +4,17 @@ Welcome to my page. It's not very good, but hey, what are ya gonna do?
 ## History of this page
 ### Styles
 I will now explain the **history** of this page.\
-I didn't *need* to write this entire history section, but I am ~a tryhard~ and overachiever.\
+I didn't *need* to write this entire history section, but I am ~~a tryhard~~ an overachiever.\
 **_Anyways._ So I was told I needed to create a User Page for an assignment.**\
 One of the requirements was that it ***needed*** to include Markdown formatting like <sub>subscripts</sub> and <sup>superscripts</sup>.\
-Now, the professor did not say I needed to use every single text style, but <ins>I chose to</ins>.\
+Now, the professor did not say I needed to use every single text style, but <ins>I chose to</ins>.
 ### Quotes
 What the professor specifically said to do was
 > Create a new file called index.md in whatever branch you like. This is where you'll create your User Page, which should include content that introduces who you are as a programmer and as a person. Your User Page must be made with Markdown. For this assignment, your page must include the following:
 
 followed by a long list I won't bore you with.\
 <ins>***ANYWAYS***</ins>, I used a `git clone` command to clone the repository onto my machine.\
-It looked a little something like this:\
+It looked a little something like this:
 
 ```git clone https://github.com/TobbyTukaywan/TobbyTukaywan.github.io.git```
 
